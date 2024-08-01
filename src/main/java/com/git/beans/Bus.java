@@ -6,4 +6,6 @@ public class Bus {
 		System.out.println("Bus started");
 		System.out.println("Priority task");
 	}
+	
+	int i=10;
 }
