@@ -12,6 +12,8 @@ public class SpringBootAppApplication {
 	
 		//changes for HIS-134
 		run.close();
+
+		int a = 10;
 	}
 
 }
