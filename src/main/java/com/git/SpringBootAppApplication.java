@@ -14,6 +14,8 @@ public class SpringBootAppApplication {
 		run.close();
 
 		int a = 10;
+
+		int b = 20;
 	}
 
 }
