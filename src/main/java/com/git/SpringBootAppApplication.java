@@ -7,7 +7,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 @SpringBootApplication
 public class SpringBootAppApplication {
 
-	private Map<String,Object> map cache = new HashMap<String,Object>();
+	private Map<String,Object> cache = new HashMap<String,Object>();
 
 	public static void main(String[] args) {
 		ConfigurableApplicationContext run = SpringApplication.run(SpringBootAppApplication.class, args);
