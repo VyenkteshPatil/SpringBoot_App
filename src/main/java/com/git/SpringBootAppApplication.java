@@ -14,4 +14,10 @@ public class SpringBootAppApplication {
 		run.close();
 	}
 
+	//HIS-200 related changes
+
+	public void doProcess(){
+		//logic goes here
+	}
+
 }
