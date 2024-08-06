@@ -17,7 +17,7 @@ private static String REST_URL="https://www.equifax.com/getScore";
 
 		int a = 10;
 
-		int b = 20;
+		
 	}
 
 }
