@@ -21,7 +21,7 @@ private static String REST_URL="https://www.equifax.com/getScore";
 
 		int a = 10;
 
-		
+
 	}
 
 
@@ -30,6 +30,12 @@ private static String REST_URL="https://www.equifax.com/getScore";
 		//logic
 	}
 
-	//ABC_abc
+	
 
 }
+
+
+
+
+
+//123
